@@ -29,8 +29,7 @@ To use a different server, put its address in a file named `nomikai-server.txt` 
 2. Open `AexonJP-Android.apk` and allow "Install unknown apps" when asked.
 3. Open Growtopia and create a GrowID on the login screen.
 
-Needs a 64-bit (arm64) phone. The APK is Growtopia 5.59 with the server address changed to
-`rumahweb.aexonjp.net`.
+Needs a 64-bit (arm64) phone. The APK is Growtopia 5.59 with the server address changed
 
 ## Checking a download
 
