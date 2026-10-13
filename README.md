@@ -16,12 +16,6 @@ not stored in the repository. `SHA256SUMS` lists their checksums.
 2. Open the `AexonJP` folder and run `Growtopia.exe`.
 3. Create a GrowID on the login screen.
 
-Nothing is installed and the hosts file is not changed. `dinput8.dll` in the folder answers the
-game's lookups of `growtopia1.com` / `growtopia2.com` with the AexonJP server
-(`rumahweb.aexonjp.net`). Delete it and the same game connects to the official servers again.
-To use a different server, put its address in a file named `nomikai-server.txt` next to
-`Growtopia.exe`. The login page needs Microsoft Edge WebView2, which Windows 10 and 11 already have.
-
 ## Android
 
 1. Uninstall the Play Store version of Growtopia. This build is signed with a different key, so
